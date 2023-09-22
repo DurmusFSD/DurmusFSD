@@ -1,3 +1,5 @@
+![](https://media.licdn.com/dms/image/D4D16AQG6T92gjjtBKg/profile-displaybackgroundimage-shrink_350_1400/0/1674153278110?e=1700697600&v=beta&t=RzoJwcaO1s88gzBdfLBLJ_GmDqyLDjc6Gtr79SRWIkA)
+
 <h1 align="center">Hi 👋, I'm Durmuş Özgül</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
