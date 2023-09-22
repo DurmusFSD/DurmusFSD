@@ -1,4 +1,3 @@
-[!MasterHead()https://www.google.com/url?sa=i&url=http%3A%2F%2Fweb2.bilkent.edu.tr%2Fbilge%2Fbg-9-full%2F&psig=AOvVaw2laBiOFaHYZZcvymMPRZgT&ust=1695489149602000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLiRqLXbvoEDFQAAAAAdAAAAABAE]
 <h1 align="center">Hi 👋, I'm Durmuş Özgül</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
