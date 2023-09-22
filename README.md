@@ -26,3 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=durmusfsd&" alt="durmusfsd" /></p>
 
+![snake gif](https://github.com/DurmusFSD/DurmusFSD/blob/output/github-contribution-grid-snake.gif)
