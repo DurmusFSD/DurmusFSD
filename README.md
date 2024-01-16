@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Durmuş Özgül</h1>
-<h3 align="center">A passionate frontend developer from Türkiye <br/> Yeteneklerim <br/> React.js <br/> HTML, CSS, JavaScript <br/> Responsive Web Design <br/> UI/UX Tasarımı</h3>
+<h3 align="center">A passionate frontend developer from Türkiye <br/> React.js <br/> HTML, CSS, JavaScript <br/> Responsive Web Design <br/> UI/UX Tasarımı</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durmusfsd&label=Profile%20views&color=0e75b6&style=flat" alt="durmusfsd" /> </p>
 
