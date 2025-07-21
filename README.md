@@ -22,6 +22,8 @@
 "IT'S ALL CODE. IF YOU LISTEN CLOSELY, YOU CAN HEAR THE NUMBERS."
    «ЦЕ ВСЕ КОД. ЯКЩО УВАЖНО ПРИСЛУХАТИСЯ, МОЖНА ПОЧУТИ ЦИФРИ».  
 
+   <!---->
+
 <h1 align="center">Hi 👋, I'm Durmuş Özgül</h1>
 <h3 align="center">A passionate frontend developer from Türkiye <br/> Software Developer | React & Front End Developer</h3>
 
