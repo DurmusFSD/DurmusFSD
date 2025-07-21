@@ -1,3 +1,27 @@
+                           ,----------------,              ,---------,
+                      ,-----------------------,          ,"        ,"|
+                    ,"                      ,"|        ,"        ,"  |
+                   +-----------------------+  |      ,"        ,"    |
+                   |  .-----------------.  |  |     +---------+      |
+                   |  |                 |  |  |     | -==----'|      |
+                   |  |  Hi! I'm        |  |  |     |         |      |
+                   |  |  DurmusFSD    |  |  |/----|`---=    |      |
+                   |  |  C:\>_          |  |  |   ,/|==== ooo |      ;
+                   |  |                 |  |  |  // |(((( [33]|    ,"
+                   |  `-----------------'  |," .;'| |((((     |  ,"
+                   +-----------------------+  ;;  | |         |,"
+                      /_)______________(_/  //'   | +---------+
+                 ___________________________/___  `,
+                /  oooooooooooooooo  .o.  oooo /,   \,"-----------
+               / ==ooooooooooooooo==.o.  ooo= //   ,`\--{)B     ,"
+              /_==__==========__==_ooo__ooo=_/'   /___________,"
+              `-----------------------------
+              
+              
+                     -github.com/DurmusFSD-
+"IT'S ALL CODE. IF YOU LISTEN CLOSELY, YOU CAN HEAR THE NUMBERS."
+   «ЦЕ ВСЕ КОД. ЯКЩО УВАЖНО ПРИСЛУХАТИСЯ, МОЖНА ПОЧУТИ ЦИФРИ».  
+
 <h1 align="center">Hi 👋, I'm Durmuş Özgül</h1>
 <h3 align="center">A passionate frontend developer from Türkiye <br/> Software Developer | React & Front End Developer</h3>
 
